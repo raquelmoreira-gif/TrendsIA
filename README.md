@@ -1,33 +1,34 @@
 # Programa de Capacitação em Desenvolvimento de Agentes de IA
 
-**Instituição:** Trends IA
+**Trends IA**
 
-## Sobre o programa
+## Sobre o projeto
 
-Este repositório reúne os estudos, exercícios, atividades práticas e projetos desenvolvidos durante o Programa de Capacitação em Desenvolvimento de Agentes de IA - Trends IA.
+Este repositório reúne atividades práticas, exercícios, estudos e projetos desenvolvidos durante o Programa de Capacitação em Desenvolvimento de Agentes de IA - Trends IA.
 
-O objetivo é documentar o aprendizado, organizar os materiais e acompanhar a evolução técnica ao longo da capacitação.
+O objetivo é documentar o aprendizado e acompanhar a evolução técnica ao longo da capacitação.
 
-## Estrutura do repositório
+## Conteúdo
 
-```text
-P0/
-.gitignore
-LICENSE
-README.md
-```
+| Diretório | Descrição |
+|---|---|
+| P0 | Atividades e fundamentos iniciais |
+| P0/docker | Construção e execução de aplicação Python com Docker |
 
-## Ferramentas e tecnologias
+## Tecnologias utilizadas
 
 - Python
+- Flask
 - Docker
 - Git e GitHub
 - Inteligência Artificial
 
-## Atividades
+## Organização
 
-As atividades serão organizadas por etapas e módulos, com seus respectivos códigos, arquivos e documentações.
+As atividades serão adicionadas progressivamente, conforme o avanço nos módulos do programa.
 
 ## Autoria
 
-Repositório acadêmico e de estudos, desenvolvido como parte da jornada de capacitação em Desenvolvimento de Agentes de IA.
+**Raquel Moreira Ferreira**
+
+Repositório desenvolvido para fins de estudo e capacitação profissional.
